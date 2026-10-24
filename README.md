@@ -2,7 +2,7 @@
 
 > **Repository:** `xrwvm-fullstack_developer_capstone`
 > **Project:** `fullstack_developer_capstone`
-> **GitHub:** [onkarbansode18/cars-dealership-fullstack-capstone](https://github.com/onkarbansode18/cars-dealership-fullstack-capstone)
+
 
 [![CI/CD Pipeline](https://github.com/onkarbansode18/cars-dealership-fullstack-capstone/actions/workflows/cicd.yml/badge.svg)](https://github.com/onkarbansode18/cars-dealership-fullstack-capstone/actions)
 
